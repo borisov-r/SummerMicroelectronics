@@ -1,0 +1,37 @@
+<Qucs Schematic 0.0.16>
+<Properties>
+  <View=0,0,860,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=transistors.dat>
+  <DataDisplay=transistors.sch>
+  <OpenDisplay=1>
+  <Script=transistors.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 200 440 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"Iq1.It" #0000ff 0 3 0 0 0>
+	<"Iq2.It" #ff0000 0 3 0 0 0>
+	<"Iq3.It" #ff00ff 0 3 0 0 0>
+	<"Iq4.It" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 580 440 240 160 3 #c0c0c0 1 00 1 0 0.0002 0.001 1 -1.21236e+70 1e+70 1.20245e+70 1 -1 1 1 315 0 225 "" "" "">
+	<"Vq1.Vt" #0000ff 0 3 0 0 0>
+	<"Vq2.Vt" #ff0000 0 3 0 0 0>
+	<"Vq3.Vt" #ff00ff 0 3 0 0 0>
+	<"Vq4.Vt" #00ff00 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
