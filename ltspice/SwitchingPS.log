@@ -1,0 +1,23 @@
+Circuit: * C:\Program Files\LTC\LTspiceIV\SwitchingPS.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.132369 to 0.132369
+
+Date: Wed Sep 12 17:37:57 2012
+Total elapsed time: 100.739 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 13214753
+traniter = 13214748
+tranpoints = 4027280
+accept = 2892903
+rejected = 1134378
+matrix size = 13
+fillins = 2
+solver = Normal
+Matrix Compiler1:      43 opcodes  0.6/[0.4]/0.5
+Matrix Compiler2:      80 opcodes  0.5/[0.3]/0.4
+
+
