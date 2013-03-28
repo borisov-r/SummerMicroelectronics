@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.16>
 <Properties>
-  <View=66,120,1217,700,1,0,0>
+  <View=86,40,1190,700,1.21,300,70>
   <Grid=10,10,0>
   <DataSet=transistor_nmos.dat>
   <DataDisplay=transistor_nmos.sch>
